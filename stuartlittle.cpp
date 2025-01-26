@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-    printf("stuart litle says hi\n");
+    printf("stuart litle runs from snow\n");
 }
